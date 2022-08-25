@@ -1,4 +1,4 @@
-# synchronized_text_editor
+# synchronize
 
 A little synchronized text editor on [node.js](https://nodejs.org/) with [socket.io](https://socket.io/) and [express](https://expressjs.com/), you can type the same text with your friends or colleagues simultaneously thanks to an intelligent versioning control system. __(Heroku)__
 
