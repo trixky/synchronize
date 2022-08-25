@@ -2,7 +2,7 @@
 
 A little synchronized text editor on [node.js](https://nodejs.org/) with [socket.io](https://socket.io/) and [express](https://expressjs.com/), you can type the same text with your friends or colleagues simultaneously thanks to an intelligent versioning control system. __(Heroku)__
 
-![Recordit GIF](https://i.ibb.co/jbqq88S/ezgif-com-gif-maker.gif)
+![Recordit GIF](https://github.com/trixky/synchronize/blob/master/.demo/demo.gif?raw=true)
 
 *this project is in progress*
 
